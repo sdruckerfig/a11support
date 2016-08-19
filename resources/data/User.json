@@ -1,0 +1,9 @@
+{
+   id: 1,
+  "firstName" : "Steve",
+  "lastName" : "Drucker",
+  "group" : "Agency,BRD,OMB",
+  "email" : "sdrucker@figleaf.com",
+  "phone" : "202-415-8483",
+  "agency" : "OMB"
+}

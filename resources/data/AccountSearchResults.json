@@ -1,0 +1,27 @@
+{
+	"results": 3,
+	"success": true,
+	"data": [
+		{
+			"id"   : 1,
+			"accountId" : 1,
+			"accountName" : "Account 1",
+			"active" : true,
+			"verGroupName" : "Vergroup 1",
+		},
+		{
+			"id"   : 2,
+			"accountId" : 1,
+			"accountName" : "Account 1",
+			"active" : true,
+			"verGroupName" : "Vergroup 2",
+		},
+		{
+			"id"   : 3,
+			"accountId" : 2,
+			"accountName" : "Account 2",
+			"active" : false,
+			"verGroupName" : "Vergroup 3",
+		}
+	]
+}

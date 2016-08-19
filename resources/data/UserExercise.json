@@ -1,0 +1,18 @@
+[
+	{
+		"id" : 1,
+		"userId" : 1,
+		"role" : "Agency",
+		"verGroup" : "PB2017",
+		"accessType" : "R",
+		"lockRuleExclusions" : "7"
+	},
+	{
+		"id" : 2,
+		"userId" : 1,
+		"role" : "OMB",
+		"verGroup" : "MS2017",
+		"accessType" : "W",
+		"lockRuleExclusions" : "52"
+	}
+] 

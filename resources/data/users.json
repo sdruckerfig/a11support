@@ -1,0 +1,46 @@
+{
+  "DataTable": {
+    "Query": [
+      {
+        "MF_USERID": "1",
+        "FIRST_NAME": "Nancy                         "
+      },
+      {
+        "MF_USERID": "2",
+        "FIRST_NAME": "Marilyn                       "
+      },
+      {
+        "MF_USERID": "3",
+        "FIRST_NAME": "Alan                          "
+      },
+      {
+        "MF_USERID": "4",
+        "FIRST_NAME": "Rebecca                       "
+      },
+      {
+        "MF_USERID": "5",
+        "FIRST_NAME": "Shelly                        "
+      },
+      {
+        "MF_USERID": "6",
+        "FIRST_NAME": "Edward                        "
+      },
+      {
+        "MF_USERID": "7",
+        "FIRST_NAME": "Sunny                         "
+      },
+      {
+        "MF_USERID": "8",
+        "FIRST_NAME": "Juanita                       "
+      },
+      {
+        "MF_USERID": "9",
+        "FIRST_NAME": "Craig                         "
+      },
+      {
+        "MF_USERID": "10",
+        "FIRST_NAME": "Thomas                        "
+      }
+    ]
+  }
+}

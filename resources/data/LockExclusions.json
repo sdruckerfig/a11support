@@ -1,0 +1,249 @@
+{
+  "DataTable": {
+    "Query": [
+      {
+        "ACTIVE": "A",
+        "LOCKID": "7",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock Transmit 7                                                                                     ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "1                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "7",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock Transmit 7                                                                                     ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "2                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "7",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock Transmit 7                                                                                     ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "3                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "7",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock Transmit 7                                                                                     ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "4                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "7",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock Transmit 7                                                                                     ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "5                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "21",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Prior Year Policy Receipt Data                                                                      ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "1                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "21",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Prior Year Policy Receipt Data                                                                      ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "2                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "21",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Prior Year Policy Receipt Data                                                                      ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "3                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "21",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Prior Year Policy Receipt Data                                                                      ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "4                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "34",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock 5050 thru 5055                                                                                 ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "1                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "34",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock 5050 thru 5055                                                                                 ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "2                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "34",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock 5050 thru 5055                                                                                 ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "3                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "34",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock 5050 thru 5055                                                                                 ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "4                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "34",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock 5050 thru 5055                                                                                 ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "5                             ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "51",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock of PY amounts for all schedules except J, N, and V                                             ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "1                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "51",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock of PY amounts for all schedules except J, N, and V                                             ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "2                              ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "59",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Final Lock - Schedules X                                                                            ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "3                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "59",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Final Lock - Schedules X                                                                            ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "4                             ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "60",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Final lock All schedules Except X and T                                                             ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "5                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "60",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Final lock All schedules Except X and T                                                             ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "6                             ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "63",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Final Lock of Spendout Rates                                                                        ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "7                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "A",
+        "LOCKID": "63",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Final Lock of Spendout Rates                                                                        ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "8                             ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "I",
+        "LOCKID": "5",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock PY-BY on Schedule N line 0100                                                                  ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "9                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "I",
+        "LOCKID": "5",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock PY-BY on Schedule N line 0100                                                                  ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "10                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "I",
+        "LOCKID": "5",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock PY-BY on Schedule N line 0100                                                                  ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "1                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "I",
+        "LOCKID": "5",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock PY-BY on Schedule N line 0100                                                                  ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "2                            ",
+        "AGENCY": "100"
+      },
+      {
+        "ACTIVE": "I",
+        "LOCKID": "5",
+        "LOCK_TYPE": "LOCK   ",
+        "LOCK_DESC": "Lock PY-BY on Schedule N line 0100                                                                  ",
+        "LAST_NAME": "LAST_NAME",
+        "OWNER": "3                              ",
+        "AGENCY": "100"
+      }
+    ]
+  }
+}

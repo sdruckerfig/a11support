@@ -1,0 +1,20 @@
+
+[
+	{
+		"id" : 0,
+		"label" : "All"
+	},
+	{
+		"id" : 1,
+		"label" : "schedule account update"
+	},
+	{
+		"id" : 2,
+		"label" : "upload account"
+	},
+	{
+		"id" : 3,
+		"label" : "schedule account download"
+	}
+
+]
